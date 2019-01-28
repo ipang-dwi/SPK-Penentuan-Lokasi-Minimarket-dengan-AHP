@@ -1,5 +1,7 @@
 # SPK-Penentuan-Lokasi-Minimarket-dengan-AHP
 
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 SPK Penentuan Lokasi Minimarket
 
 Aplikasi Sistem Pedukung Keputusan (SPK) pemilihan lokasi Minimarket dengan metode Analitycal Hierarchy Process (AHP) berbasis web, menggunakan native PHP5.
